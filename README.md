@@ -33,7 +33,7 @@ An Arduino-based traffic light controller using:
 4. Monitor via Serial (9600 baud)
 
 ## Circuit Diagram
-See [docs/circuit_diagram.pdf](./docs/circuit_diagram.pdf) for wiring details.
+See [circuit_diagram.pdf](./docs/circuit_diagram.pdf) for wiring details.
 
 ## Troubleshooting
 - Ensure all grounds are connected
