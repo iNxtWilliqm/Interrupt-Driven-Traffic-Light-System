@@ -12,7 +12,6 @@ An Arduino-based traffic light controller using:
 - Real-time response to vehicle detection
 - Automatic light cycling with 4-phase sequence
 - Serial monitoring for debugging
-- Atomic operation protection
 
 ## Hardware Requirements
 - Arduino Uno
